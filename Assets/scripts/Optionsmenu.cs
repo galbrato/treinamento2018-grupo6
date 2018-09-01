@@ -8,12 +8,17 @@ public class Optionsmenu : MonoBehaviour {
 
     public AudioMixer audiomixer;
     public Dropdown resolutionDropdown;
+    public Slider volsli;
+    public float vinit;
+    private bool vexist;
     int resolutionindex = 0;
  
 
     Resolution[] resolution;
      void Start()
     {
+        vexist = audiomixer.GetFloat("volume", out vinit);//valor inicial da master no audio
+        volsli.value = vinit;//valor inicial do volume no slider
         resolution = Screen.resolutions;
         resolutionDropdown.ClearOptions();
 

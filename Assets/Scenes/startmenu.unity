@@ -3070,6 +3070,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audiomixer: {fileID: 24100000, guid: eacf0f0e66492c5469a1c2463bf0e89b, type: 2}
   resolutionDropdown: {fileID: 1613641940}
+  volsli: {fileID: 401436681}
+  vinit: 0
+  vexist: 0
 --- !u!1 &1847941699
 GameObject:
   m_ObjectHideFlags: 0

@@ -2,19 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class reader : interagivel {
-    
-    public GameObject Canvas;
+public class reader : interagivel
+{
+
+    public GameObject painel;
     public bool read;
 
 
 
-    void Start () {
-       
+    void Start()
+    {
+
     }
 
 
-	void Update () {
+    void Update()
+    {
 
         if (utiliz)
         {
@@ -31,7 +34,7 @@ public class reader : interagivel {
             if (Input.GetKeyDown(KeyCode.E))
             {
                 read = false;
-                Canvas.SetActive(read);
+                painel.SetActive(read);
 
 
             }
@@ -42,7 +45,7 @@ public class reader : interagivel {
             if (Input.GetKeyDown(KeyCode.E))
             {
                 read = true;
-                Canvas.SetActive(read);
+                painel.SetActive(read);
             }
         }
 
