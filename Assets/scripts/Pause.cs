@@ -5,6 +5,8 @@ using UnityEngine;
 public class Pause : MonoBehaviour {
 
     public GameObject menu;
+    public GameObject resmenu;
+    public GameObject opsmenu;
     public  bool abfec = true;
 	
 	
@@ -26,6 +28,8 @@ public class Pause : MonoBehaviour {
             if (Input.GetKeyDown(KeyCode.P))
             {
                 Time.timeScale = 1;
+                resmenu.gameObject.SetActive(!abfec);
+                opsmenu.gameObject.SetActive(abfec);
                 menu.gameObject.SetActive(abfec);
                 Cursor.lockState = CursorLockMode.Locked;
                 Cursor.visible = false;
