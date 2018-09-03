@@ -4400,6 +4400,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   menu: {fileID: 633068730}
+  resmenu: {fileID: 852343045}
+  opsmenu: {fileID: 921634519}
   abfec: 1
 --- !u!1 &685990055
 GameObject:
