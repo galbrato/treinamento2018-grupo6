@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 8fe892225ac01e841999cce4cb6b8567
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: INI_LED_04 ZIGZAG_5x605_002
+    100004: INI_LED_04 ZIGZAG_5x605_003
+    100006: Line002
+    100008: Line003
+    100010: Tros_010
+    100012: Tros_011
+    100014: Tros_012
+    100016: Tros_013
+    100018: Tros_014
+    100020: Tros_015
+    100022: Tros_016
+    100024: Tros_017
+    100026: Tros_018
+    100028: Tros_019
+    100030: Tros_020
+    100032: Tros_021
+    100034: Wire_002
+    100036: Wire_003
+    100038: Wire_004
+    100040: Wire_005
+    100042: zanga_010
+    100044: zanga_011
+    100046: zanga_012
+    100048: zanga_013
+    100050: zanga_014
+    100052: zanga_015
+    100054: zanga_016
+    100056: zanga_017
+    100058: zanga_018
+    100060: zanga_019
+    100062: zanga_020
+    100064: zanga_021
+    400000: //RootNode
+    400002: INI_LED_04 ZIGZAG_5x605_002
+    400004: INI_LED_04 ZIGZAG_5x605_003
+    400006: Line002
+    400008: Line003
+    400010: Tros_010
+    400012: Tros_011
+    400014: Tros_012
+    400016: Tros_013
+    400018: Tros_014
+    400020: Tros_015
+    400022: Tros_016
+    400024: Tros_017
+    400026: Tros_018
+    400028: Tros_019
+    400030: Tros_020
+    400032: Tros_021
+    400034: Wire_002
+    400036: Wire_003
+    400038: Wire_004
+    400040: Wire_005
+    400042: zanga_010
+    400044: zanga_011
+    400046: zanga_012
+    400048: zanga_013
+    400050: zanga_014
+    400052: zanga_015
+    400054: zanga_016
+    400056: zanga_017
+    400058: zanga_018
+    400060: zanga_019
+    400062: zanga_020
+    400064: zanga_021
+    2100000: Aluminium Composite White
+    2100002: Aluminium Composite Black
+    2100004: Plafon
+    2100006: 'Material #41'
+    2100008: CRN.Zanga_met
+    2100010: CRN.Tros_met
+    2100012: Wire_Plastic__bl
+    2100014: Wire_plastic_wh
+    2300000: INI_LED_04 ZIGZAG_5x605_002
+    2300002: INI_LED_04 ZIGZAG_5x605_003
+    2300004: Line002
+    2300006: Line003
+    2300008: Tros_010
+    2300010: Tros_011
+    2300012: Tros_012
+    2300014: Tros_013
+    2300016: Tros_014
+    2300018: Tros_015
+    2300020: Tros_016
+    2300022: Tros_017
+    2300024: Tros_018
+    2300026: Tros_019
+    2300028: Tros_020
+    2300030: Tros_021
+    2300032: Wire_002
+    2300034: Wire_003
+    2300036: Wire_004
+    2300038: Wire_005
+    2300040: zanga_010
+    2300042: zanga_011
+    2300044: zanga_012
+    2300046: zanga_013
+    2300048: zanga_014
+    2300050: zanga_015
+    2300052: zanga_016
+    2300054: zanga_017
+    2300056: zanga_018
+    2300058: zanga_019
+    2300060: zanga_020
+    2300062: zanga_021
+    3300000: INI_LED_04 ZIGZAG_5x605_002
+    3300002: INI_LED_04 ZIGZAG_5x605_003
+    3300004: Line002
+    3300006: Line003
+    3300008: Tros_010
+    3300010: Tros_011
+    3300012: Tros_012
+    3300014: Tros_013
+    3300016: Tros_014
+    3300018: Tros_015
+    3300020: Tros_016
+    3300022: Tros_017
+    3300024: Tros_018
+    3300026: Tros_019
+    3300028: Tros_020
+    3300030: Tros_021
+    3300032: Wire_002
+    3300034: Wire_003
+    3300036: Wire_004
+    3300038: Wire_005
+    3300040: zanga_010
+    3300042: zanga_011
+    3300044: zanga_012
+    3300046: zanga_013
+    3300048: zanga_014
+    3300050: zanga_015
+    3300052: zanga_016
+    3300054: zanga_017
+    3300056: zanga_018
+    3300058: zanga_019
+    3300060: zanga_020
+    3300062: zanga_021
+    4300000: INI_LED_04 ZIGZAG_5x605_002
+    4300002: zanga_018
+    4300004: Tros_018
+    4300006: Wire_004
+    4300008: INI_LED_04 ZIGZAG_5x605_003
+    4300010: Line002
+    4300012: Line003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
