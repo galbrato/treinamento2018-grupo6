@@ -8,11 +8,6 @@ public class PauseMenu : MonoBehaviour {
     public GameObject Menu;
     public GameObject player;
 
-	public void QuitGame()
-    {
-        SceneManager.LoadScene(0);
-    }
-
     public void ResumeGame()
     {
         Time.timeScale = 1;
@@ -22,4 +17,11 @@ public class PauseMenu : MonoBehaviour {
         player.gameObject.GetComponent<Pause>().abfec = !player.gameObject.GetComponent<Pause>().abfec;
 
     }
+
+    public void QuitGame()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    
 }
